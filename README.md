@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-hi, I'm  Mahdi 👋<br>front-end developer (in progress)<br> 
+hi, I'm  Mahdi 👋<br>front-end developer (in progress)<br> computer engineering student 👨🏻‍💻 <br>
 
 
 ## 🌐 Socials:
